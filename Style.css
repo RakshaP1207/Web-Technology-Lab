@@ -1,0 +1,37 @@
+body{
+background-color:pink;
+}
+h2{
+color:Navy;
+font-size:50px;
+}
+p{
+color:red;
+text-align:center;
+font-size:20px;
+}
+div p{
+background-color:yellow;
+}
+
+img{
+opacity:0.1;
+}
+
+div img{
+opacity:0.5;
+}
+div img{
+opacity:1.0;
+}
+
+a:hover{
+background-color:yellow;
+font-size:30px;
+}
+
+#para1{
+text-align:center;
+color:red;
+}
+
